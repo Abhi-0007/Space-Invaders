@@ -1,5 +1,5 @@
 # Space-Invaders
-Made using PyGame
-Features:
+>Made using PyGame
+- Features:
 - Character Selection
 - Difficulty selection
